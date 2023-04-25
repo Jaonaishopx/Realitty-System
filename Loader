@@ -1,0 +1,10 @@
+lines (9 sloc)  178 Bytes
+local gamelist = {
+ []​ =, 
+}
+local checkgame = gamelist[game.gameId]
+if gamelist[game.gameId] then 
+print (checkgame)
+    loadstring(game:HttpGet(checkgame))()
+else
+end
