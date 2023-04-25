@@ -1,6 +1,6 @@
 lines (9 sloc)  178 Bytes
 local gamelist = {
- []​ =, 
+ [994732206]​ =, 
 }
 local checkgame = gamelist[game.gameId]
 if gamelist[game.gameId] then 
