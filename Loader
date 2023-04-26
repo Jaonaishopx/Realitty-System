@@ -1,5 +1,5 @@
 local gamelist = {
- [994732206]  =, 
+ [994732206]  = "https://raw.githubusercontent.com/Jaonaishopx/Realitty-System/main/Bloxfruits", --BF
 }
 local checkgame = gamelist[game.gameId]
 if gamelist[game.gameId] then 
